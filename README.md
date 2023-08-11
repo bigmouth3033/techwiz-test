@@ -1,2 +1,0 @@
-# techwiz-test
-rstr
